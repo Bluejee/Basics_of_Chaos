@@ -1,44 +1,39 @@
-<!-- The following are to be deleted when the template is used to create a new project. -->
-# OpenSource_Project_Guidelines
-This repository is to help me with creating repositories that can be used for Open Source Projects.
+# Basics of Chaos
 
-I have come to realise that the things that i have to remember in order to make a good open source project is not something that I can always remember.
-So, I have come up with this repository that will contain information about the workflow that can be used to create a project repository.
+This repository contains all the programs, results, and the comprehensive report of my Bachelor's Thesis titled "Chaos - Interpreting the Physical Pendulum and the Chaotic Ratchet" conducted during the 3rd year of my Integrated Masters. The project focuses on exploring Non-linearity and Chaos within dynamical systems, particularly analyzing two key systems: a physical pendulum and the chaotic ratchet.
 
-Workflow.
-- Create a new Private Repository from this template repository.
-- Check each box until all the following files are changed with the right project name.
-- [ ] CONTRIBUTING.md
-- [ ] CODE_OF_CONDUCT.md
-- [ ] README.md
-- [ ] LICENSE.md
-- The LICENSE by default would be GPL3 if needed can be changed according to use.
-- The repository is initialised.
-- Change the visibility to Public(If its time to make it public).
-- The Open Source Project is Initialised.
+## Abstract
+In this study, we delve into the complex world of Non-linearity and Chaos. Our investigation begins with an interpretation of nonlinear systems, followed by a discussion on various representation methods such as Space-Time diagrams and Phase Space Diagrams. We explore the numerical solutions to differential equations that are typically unsolvable through analytical methods. The journey from order to disorder in systems, and the potential return to order, is examined. Key concepts like bifurcation diagrams and Poincaré sections of Phase Space Diagrams are discussed to identify attractors and understand the 'order in chaos'. This leads to applying these concepts to a Chaotic Ratchet system, unveiling the intriguing notion of negative currents. The study sets a foundation for future research into using entropy as a measure of chaos and predicting the behavior of chaotic systems.
 
-<!-- Delete till here -->
+## Systems Analyzed
+1. **Physical Pendulum**: An investigation into its dynamic behavior and underlying chaotic properties.
+2. **Chaotic Ratchet**: Analysis of this unique system, focusing on the phenomenon of negative currents.
 
-<!-- Changes to be made in the line below -->
-## Help with <**Project**>
+## Key Findings
+- **Order to Chaos**: Understanding the progression of systems from orderly to chaotic states.
+- **Chaos in Physical Systems**: Applying theoretical knowledge to real-world systems, with a focus on chaotic ratchets.
+- **Entropy and Chaos**: Preliminary insights into using entropy as a chaos metric and predictive tool.
 
-If you need help regarding <**Project**>, then please open an issue or reach out to me through any of the contacts you can find in my [GitHub Profile](https://github.com/Bluejee)
+## Repository Structure
+- `programs/`: Contains all the codes written as part of this research.
+- `results/`: Includes the output of simulations and calculations.
+- `report/`: The comprehensive report detailing the study.
 
-<!-- Changes to be made in the line below -->
-If you would like to submit a bug report or feature request, please [open an issue](https://github.com/Bluejee/<**Project**>/issues).
+## Help with Basics_of_Chaos
+
+If you need help regarding Basics_of_Chaos, then please open an issue or reach out to me through any of the contacts you can find in my [GitHub Profile](https://github.com/Bluejee)
+
+If you would like to submit a bug report or feature request, please [open an issue](https://github.com/Bluejee/Basics_of_Chaos/issues).
 
 ## Contributing
 
 Contributions to this project are always welcome.
-<!-- Changes to be made in the line below -->
-Please see the [Contribution Guidelines](https://github.com/Bluejee/<**Project**>/blob/main/CONTRIBUTING.md) to see how to help.
+Please see the [Contribution Guidelines](https://github.com/Bluejee/Basics_of_Chaos/blob/main/CONTRIBUTING.md) to see how to help.
 
 ## Code of Conduct
 
 I value a positive and respectful community, and I kindly ask that you follow our code of conduct in all interactions with other members. 
-<!-- Changes to be made in the line below -->
-Please take a moment to review the [Code of Conduct](https://github.com/Bluejee/<**Project**>/blob/main/CODE_OF_CONDUCT.md).
+Please take a moment to review the [Code of Conduct](https://github.com/Bluejee/Basics_of_Chaos/blob/main/CODE_OF_CONDUCT.md).
 
 ## License
-<!-- Changes to be made in the line below -->
-Please refer the [License](https://github.com/Bluejee/<**Project**>/blob/main/LICENSE.txt) of this project to understand about your rights.
+Please refer the [License](https://github.com/Bluejee/Basics_of_Chaos/blob/main/LICENSE.txt) of this project to understand about your rights.
