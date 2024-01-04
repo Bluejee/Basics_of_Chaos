@@ -14,10 +14,12 @@ In this study, we delve into the complex world of Non-linearity and Chaos. Our i
 - **Chaos in Physical Systems**: Applying theoretical knowledge to real-world systems, with a focus on chaotic ratchets.
 - **Entropy and Chaos**: Preliminary insights into using entropy as a chaos metric and predictive tool.
 
+## Note on Programs
+The programs in this repository have not undergone linting, refactoring, or extensive commenting. This setup, established a few years after the project's completion, is intended primarily for reference purposes. Due to the time-consuming nature of refactoring and reorganizing legacy code, the programs are provided as-is. They should be viewed as a conceptual reference rather than a ready-to-use codebase.
+
 ## Repository Structure
-- `programs/`: Contains all the codes written as part of this research.
-- `results/`: Includes the output of simulations and calculations.
-- `report/`: The comprehensive report detailing the study.
+- `programs_results/`: Contains all the codes written and the results produced as part of this research.
+- `documents/`: The comprehensive report detailing the study, and a presentation including the latex code that was used to make the report.
 
 ## Help with Basics_of_Chaos
 
